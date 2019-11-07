@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PethelServices
 {
-    public partial class Form1 : Form
+    public partial class mainMenu : Form
     {
-        public Form1()
+        public mainMenu()
         {
             InitializeComponent();
         }
@@ -22,9 +22,5 @@ namespace PethelServices
 
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
